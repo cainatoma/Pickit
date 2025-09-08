@@ -1,35 +1,19 @@
 {
-    "name": "pick_it",
-    "short_name": "pick_it",
+    "name": "Pick it - color picker",
+    "short_name": "Pick it",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "background_color": "#333333",
+    "theme_color": "#333333",
+    "description": "Pick it is a color palette generator app that allows users to create and customize color palettes for their design projects. It uses Natural Language Processing (NLP) to generate color palettes based on user input and preferences.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
         {
-            "src": "icons/Icon-192.png",
-            "sizes": "192x192",
-            "type": "image/png"
-        },
-        {
-            "src": "icons/Icon-512.png",
-            "sizes": "512x512",
-            "type": "image/png"
-        },
-        {
-            "src": "icons/Icon-maskable-192.png",
-            "sizes": "192x192",
-            "type": "image/png",
-            "purpose": "maskable"
-        },
-        {
-            "src": "icons/Icon-maskable-512.png",
+            "src": "icons/image.png",
             "sizes": "512x512",
             "type": "image/png",
-            "purpose": "maskable"
+            "purpose": "any maskable"
         }
     ]
 }
